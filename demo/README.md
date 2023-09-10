@@ -10,4 +10,15 @@ The controller layer and class provide api connection. Via these, url can be cho
 Core layer contains classes and packages that are used in all project. Specially, succes and error messages are hold here.
 DemoApplication class is the main class. Project counts to back from this class and all areas are reached.
 Using Swagger-ui dependency, business codes are tested.  
+![Looking database w/o swagger on localhost:8085](demo/ImagesForReadme/2.jpg)
+![First glance at swagger-ui](demo/ImagesForReadme/3.jpg)
+![](demo/ImagesForReadme/4.jpg)
+![](demo/ImagesForReadme/5.jpg)
+![Testing getAll method](demo/ImagesForReadme/6.jpg)
+![](demo/ImagesForReadme/7.jpg)
+![getAll method's success display](demo/ImagesForReadme/8.jpg)
+![](demo/ImagesForReadme/9.jpg)
+![Testing add method and success display](demo/ImagesForReadme/10.jpg)
+![After add method testing, display of database(postgresql)](demo/ImagesForReadme/11.jpg)
+
 
