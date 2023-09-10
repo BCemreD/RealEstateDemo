@@ -11,14 +11,14 @@ Core layer contains classes and packages that are used in all project. Specially
 DemoApplication class is the main class. Project counts to back from this class and all areas are reached.
 Using Swagger-ui dependency, business codes are tested.  
 ![Looking database w/o swagger on localhost:8085](./ImagesForReadme/2.jpg)
-![First glance at swagger-ui](github.com/BCemreD/RealEstateDemo/blob/main/demo/ImagesForReadme/3.jpg)
-![](github.com/BCemreD/RealEstateDemo/blob/main/demo/ImagesForReadme/4.jpg)
-![](github.com/BCemreD/RealEstateDemo/blob/main/demo/ImagesForReadme/5.jpg)
-![Testing getAll method](github.com/BCemreD/RealEstateDemo/blob/main/demo/ImagesForReadme/6.jpg)
-![](github.com/BCemreD/RealEstateDemo/blob/main/demo/ImagesForReadme/7.jpg)
-![getAll method's success display](github.com/BCemreD/RealEstateDemo/blob/main/demo/ImagesForReadme/8.jpg)
-![](github.com/BCemreD/RealEstateDemo/blob/main/demo/ImagesForReadme/9.jpg)
-![Testing add method and success display](github.com/BCemreD/RealEstateDemo/blob/main/demo/ImagesForReadme/10.jpg)
-![After add method testing, display of database(postgresql)](github.com/BCemreD/RealEstateDemo/blob/main/demo/ImagesForReadme/11.jpg)
+![First glance at swagger-ui](./ImagesForReadme/3.jpg)
+![](./ImagesForReadme/4.jpg)
+![](./ImagesForReadme/5.jpg)
+![Testing getAll method](./ImagesForReadme/6.jpg)
+![](./ImagesForReadme/7.jpg)
+![getAll method's success display](./ImagesForReadme/8.jpg)
+![](./ImagesForReadme/9.jpg)
+![Testing add method and success display](./ImagesForReadme/10.jpg)
+![After add method testing, display of database(postgresql)](./ImagesForReadme/11.jpg)
 
 
