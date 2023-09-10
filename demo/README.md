@@ -8,5 +8,6 @@ In PropertyDao, query methods is written to represent SELECT method in PostgreSq
 Dto layer contains PropertyWithTypeDto class. This class provide all details of properties. Its rules is written in service and manager classes.
 The controller layer and class provide api connection. Via these, url can be choosen for testing and posting.
 Core layer contains classes and packages that are used in all project. Specially, succes and error messages are hold here.
-Index controller class is written recently to avoid whitelabel error page. By this, mapping problems can be seen.
-Finally, DemoApplication class is the main class. Project counts to back from this class and all areas are reached.
+DemoApplication class is the main class. Project counts to back from this class and all areas are reached.
+Using Swagger-ui dependency, business codes are tested.  
+
